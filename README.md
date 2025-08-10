@@ -19,8 +19,8 @@
 - 'YOLO_Deepsort_v2_FINAL.html'
 - 'Description.html'
 
-##시연 GIF 
+## 시연 GIF 
 - 'yolov8.mp4' : 촬영 장소의 낮/밤 영상 데이에 전이학습한 모델을 적용 시킨 영상
   
 > 본 저장소는 포트폴리오 열람용입니다. 원 데이터는 용량/라이선스 사유로 비공개이며,
-> 결과 재현 대신 코드·출력(COLAB /HTML/GIF)을 제공합니다.
+> 결과 재현 대신 코드·출력(COLAB/HTML/MP4)을 제공합니다.
