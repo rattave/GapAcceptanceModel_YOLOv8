@@ -21,6 +21,9 @@
 
 ## 시연 GIF 
 - 'yolov8.mp4' : 촬영 장소의 낮/밤 영상 데이에 전이학습한 모델을 적용 시킨 영상
-  
+
+## 프로젝트 세부사항
+https://www.notion.so/Gap-Acceptance-23879f19815e80b5a2e3ed65144cb766?source=copy_link
+
 > 본 저장소는 포트폴리오 열람용입니다. 원 데이터는 용량/라이선스 사유로 비공개이며,
 > 결과 재현 대신 코드·출력(COLAB/HTML/MP4)을 제공합니다.
