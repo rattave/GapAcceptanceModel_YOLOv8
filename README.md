@@ -10,7 +10,7 @@ Using this, we analyze and compare different vehicle combinations to improve saf
 - Speed Calculation : Frame-based displacement for distance and speed estimation
 - Data Storage : Save CSV files containing unique IDs, vehicle direction, speed, time, gap and distance gap
 
-## Execution Code
+## Implementation
 - 'Day&Nightv8_motorModel.ipynb' : Training process to improve object recognition accuracy for motorcycles by fine-tuning YOLOv8 models
 - 'YOLO_Deepsort_v2_FINAL.ipynb' : Final code for object detection and tracking using trained models
 - 'Description.ipynb' : Additional description and project notes
@@ -23,7 +23,7 @@ Using this, we analyze and compare different vehicle combinations to improve saf
 ## Demo GIF
 - 'yolov8.mp4' : Video applying the trained model to sample video data captured at intersections
 
-## More Detailes
+## More Details
 https://www.notion.so/Gap-Acceptance-23879f19815e80b5a2e3ed65144cb766?source=copy_link
 
 > This repository is intended for portfolio viewing purposes. The raw data is not disclosed due to size and licensing constraints.
